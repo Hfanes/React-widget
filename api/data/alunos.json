@@ -1,0 +1,13 @@
+{
+        "name": "Hugo",
+        "percentilCadeira": 35,
+        "percentilCurso":55, 
+        "mediafinal" : 18,
+        "mediaCadeira" : 8,
+        "mediaprimeiroano" : 12,
+        "mediasegundooano" : 15,
+        "mediaterceiroano" : 18,
+        "notaUC1" : 15,
+        "notaUC2" : 10,
+        "id": 1
+}

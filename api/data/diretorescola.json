@@ -1,0 +1,32 @@
+{"cursos":[
+    {
+    "curso":"Informática",
+    "mediafinal_1ano":2,
+    "mediafinal_2ano":2,
+    "mediafinal_3ano":2
+    },
+    {
+    "curso":"Gestão",
+    "mediafinal_1ano":18,
+    "mediafinal_2ano":12,
+    "mediafinal_3ano":18
+    },
+    {
+    "curso":"Línguas",
+    "mediafinal_1ano":15,
+    "mediafinal_2ano":15,
+    "mediafinal_3ano":18
+    },
+    {
+    "curso":"Biomédica",
+    "mediafinal_1ano":13,
+    "mediafinal_2ano":13,
+    "mediafinal_3ano":13
+    },
+    {
+    "curso": "Desporto",
+    "mediafinal_1ano":19,
+    "mediafinal_2ano":18,
+    "mediafinal_3ano":19
+    }
+]}
